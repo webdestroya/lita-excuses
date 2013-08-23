@@ -1,12 +1,16 @@
 # lita-excuses
 
-TODO: Add a description of the plugin, and fill out the sections below.
+This Lita plugin provides a random excuse from [developerexcuses.com](http://developerexcuses.com/).
 
 ## Installation
 
-## Configuration
+
+    gem "lita-excuses"
 
 ## Usage
+
+* `Lita: excuse`
+* `!excuse`
 
 ## License
 
