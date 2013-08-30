@@ -14,7 +14,6 @@
 ## Usage
 
 * `Lita: excuse`
-* `!excuse`
 
 ## License
 
